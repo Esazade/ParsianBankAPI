@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsian", "Parsian\Parsian.csproj", "{097570C4-3D3F-4626-8613-F45E8963BBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097570C4-3D3F-4626-8613-F45E8963BBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097570C4-3D3F-4626-8613-F45E8963BBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097570C4-3D3F-4626-8613-F45E8963BBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097570C4-3D3F-4626-8613-F45E8963BBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3160F1-ABB7-45BC-8C98-E5CFBD347498}
+	EndGlobalSection
+EndGlobal
